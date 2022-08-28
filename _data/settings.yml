@@ -14,6 +14,8 @@ menu__settings:
       url: '/'
     - title: 'Journal'
       url: '/blog/'
+    - title: 'Career'
+      url: '/career/'
     - title: 'About'
       url: '/about/'
     # - title: 'Contact'
