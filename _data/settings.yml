@@ -34,15 +34,15 @@ hero:
 portfolio:
   portfolio__title: Instant Highlights
   portfolio__gallery:
-    - image: /images/gallery-03.jpg
+    - image: /images/03.png
       title: BabySteps
       description: First picture ever.
 
-    - image: /images/gallery-01.jpg
+    - image: /images/01.png
       title: Childhood
       description: A fond place that smelt like coconuts
 
-    - image: /images/gallery-02.jpg
+    - image: /images/02.png
       title: Spontaneous Combustion
       description: Bought a new camera. Wanted to use it. XP
 
