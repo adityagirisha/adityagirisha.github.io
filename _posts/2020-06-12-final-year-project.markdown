@@ -15,7 +15,7 @@ DDoS attacks are an attack strategy aimed at hindering functionality of the serv
 Software-defined networking (SDN) is a new network architecture that has been proven to enhance network performance and reliability. 
 SDN based networks promote logically centralized control of network switches and routers in an SDN environment by separating network behaviour and network functionality.
 
-We deployed an ML Algorithm to our SDN controllers which was trained on the infamous FOI dataset to detect anamolies in packet signatures (comprised of packet length, port used, content, etc). 
+We deployed an ML Algorithm to our SDN controllers which was trained on the infamous FOI dataset to detect anamalies in packet signatures (comprised of packet length, port used, content, etc). 
 
 On detecting such repeated packets from a particular source the ML classifier would trigger a mechanism that would slowly block all incoming packets/ reroute them to a honey pot and forward it to all lookup tables and SDN routers.
 

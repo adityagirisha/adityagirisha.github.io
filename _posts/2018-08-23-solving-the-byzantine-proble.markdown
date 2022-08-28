@@ -14,7 +14,7 @@ The important thing is that all generals agree on a common decision, for a halfh
 
 The problem traslates to modern day computer networks where a certain piece of code is executed parallelly across multiple systems (lets say three for example). If Node A says 1+1=2 and Node B and C say that 1+1=3 there isnt a reconcilliation in results among the nodes.
 
-We cant say with certainity if node A is wrong or node B and C are wrong unless we calculate the result ourselves. The descrepancy in results can be from various sources from sporadic failure to bad actors. Our mission was to find a way into detecting these anamolies in calculations.
+We cant say with certainity if node A is wrong or node B and C are wrong unless we calculate the result ourselves. The descrepancy in results can be from various sources from sporadic failure to bad actors. Our mission was to find a way into detecting these anamo\alies in calculations.
 
 > Our Approach: Memory Heat Maps
 
@@ -22,13 +22,13 @@ We introduce Memory Heat Map to characterize the memory behavior of the operatin
 
 ![Picture]({{site.baseurl}}/images/heat_map.png)
 
-A blockchain was deployed on the private network, and performs the functions of storing memory maps across all nodes in the system without being tamperied. It is important to note that it is just used for the functionality of distributed ledger to securely store the heat maps (no monetization mechanism is performed).
+A blockchain was deployed on the private network, and performs the functions of storing memory maps across all nodes in the system without being tampered. It is important to note that it is just used for the functionality of distributed ledger to securely store the heat maps (no monetization mechanism is performed).
 
-A simple classification ML algorithm was deployed to find any anamolies in the calculation. If any discrepany is detected, the node is removed from the network and replaced by its backup, where the process continues again.
+A simple classification ML classifier was deployed to find any anamalies in the calculation using the heatmap data. If any discrepany is detected, the node is removed from the network and replaced by its backup, where the process continues again.
 
 > Outcome
 
-This project was a tru eye opener into OS memory behaviour and also let us play around with complex networks, distributed ledgers, Machine Learning. We concluded with a POC network on the cloud with the aforementioned scenario and successfully detect faulty systems.
+This project was a true eye opener into OS memory behaviour and also let us play around with complex networks, distributed ledgers, Machine Learning and many more technologies. We concluded with a POC network on the cloud with the aforementioned scenario and successfully detected the faulty systems.
 
 > Credits
 
