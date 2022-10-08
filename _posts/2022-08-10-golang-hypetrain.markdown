@@ -131,9 +131,10 @@ This makes the code a bit stuffed with error management.
 
 • There are other drawbacks like no generics support, bringing back pointers, and a lack of extensive libraries. However, it is nothing you can shake off.
 
-> Conclusion?
+> In Conclusion?
 
-Go is built for different things. It wasn't meant for competitive coding, or an API server, or for prototyping. It was meant to solve the web app development challenges. It was meant for building low-latency, high-performance servers with low-level protocol implementations. So, comparing it to Java is like comparing apples to oranges for now. But Go is young and I'm curious to see what kind of orange it will turn out to be.
+Go is built for different things. It wasn't meant for competitive coding, or a monlithic server, or for prototyping. It was meant to solve the web app development challenges. 
 
+It was meant for building low-latency, high-performance servers with low-level protocol implementations. So, comparing it to Java is like comparing apples to oranges for now. But Go is young and I'm curious to see what kind of orange it will turn out to be.
 
-So should you go for Go? It's not a bad skill to have. The world is moving to the cloud, and Golang is undoubtedly a key player, but it's not going to replace Java; it's designed for different purposes.You'll find yourself more productive as a API developer with Java and Spring Boot and prototyping/problem solving with Python.
+So should you go for Go? It's not a bad skill to have. The world is moving to the cloud, and Golang is undoubtedly a key player, but it's not going to replace Java; it's designed for different purposes.You'll find yourself more productive as a backend developer with Java and Spring Boot and prototyping/problem solving with Python.
