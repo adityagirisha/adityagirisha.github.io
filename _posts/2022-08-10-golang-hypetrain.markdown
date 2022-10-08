@@ -85,6 +85,7 @@ It's no surprise that Docker, Kubernetes, and Terraform were all created in Gola
 
 • Java 8 has an astoundingly good functional programming support with lambda functions and stream APIs... Golang? Not so much. This is because Go does not want to have many different ways of doing the same task. As someone who lives and breathes in Java 8, it is a bit disheartening.
 
+![Picture]({{site.baseurl}}/images/golang-meme.png)
 
 • Java, C, C++, and Python more or less have the same error handling... Golang? There is no concept of Exceptions. There is no try and catch block. It just returns the error values along with the result, and somewhere along the code the devs are expected to handle it gracefully. 
 
@@ -133,7 +134,7 @@ This makes the code a bit stuffed with error management.
 
 > In Conclusion?
 
-Go is built for different things. It wasn't meant for competitive coding, or a monlithic server, or for prototyping. It was meant to solve the web app development challenges. 
+I love Golang❤️! But we have to come to terms with reality. Go is built for different things. It wasn't meant for competitive coding, or a monlithic server, or for prototyping. It was meant to solve the web app development challenges. 
 
 It was meant for building low-latency, high-performance servers with low-level protocol implementations. So, comparing it to Java is like comparing apples to oranges for now. But Go is young and I'm curious to see what kind of orange it will turn out to be.
 
