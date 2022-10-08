@@ -12,7 +12,7 @@ tags:   [golang, java]
 
 Golang, or Go for short, is the relatively new kid in town. Its debut, however, has caused a wave of widespread adoption among companies and developers. 
 
-A Stack Overflow survey, Golang took third place in the ranking of programming languages that developers would like to study.
+In a Stack Overflow survey, Golang took third place in the ranking of programming languages that developers would like to study.
 
 So, as a Java developer who recently decided to learn Go, let's talk about how different it is from what we are used to...
 
